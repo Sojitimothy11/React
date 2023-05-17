@@ -1,0 +1,56 @@
+body{
+  padding: 0;
+  margin: o;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color:#2280d3 ;
+}
+.navbar{margin-bottom: 10%;}
+.description{
+  margin-top: 10rem;
+}
+
+.description, h1{
+  font-size: 3.5rem;
+}
+
+.description p{
+  color: #fff;
+  font-size: 1.4rem;
+}
+
+.navbar{
+  background-color: #2280d3;
+}
+
+.nav-link, .navbar-brand{
+  color: #fff;
+
+}
+
+.nav-item{
+  margin-right: 2rem;
+  position: relative;
+  justify-content: right;
+}
+
+.nav-link{
+  justify-content: right;
+}
+
+.view{
+  background: #fff;
+}
+
+/*About Page*/
+
+.aboutMe{
+  border-radius: 50%;
+  background-color: blue;
+}
+
+/*Services*/
+.services img{
+  border-radius: 50%;
+
+}
